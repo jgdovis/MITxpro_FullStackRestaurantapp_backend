@@ -36,7 +36,7 @@ yarn dev
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
 ## Starting the back end
-From that directory, run npm install, followed by npm run build, followed by npm run develop. Then, navigate to localhost:1337 in your browser to confirm that Strapi is running. You should see the following:
+From that directory, run npm install, followed by npm run build, followed by npm run develop. Then, navigate to localhost:1337 in your browser to confirm that Strapi is running.
 
 <!-- Skils -->
 ### Skills 
