@@ -19,6 +19,10 @@ API
 Deployment
 This full stack Restaurant application main idea is based on a restaurant search app.
 
+## Frontend Repository
+
+ ### For the frontend please check out [Frontend GitHub repository](https://github.com/jgdovis/MITxPRO_Full-StackRestaurantApplicationCapstone)
+ 
 ## Getting Started
 
 First, run the development server:
@@ -76,14 +80,14 @@ From that directory, run npm install, followed by npm run build, followed by npm
 
 ## Learn More
 
-To learn more about Next.js, take a look at the following resources:
+### To learn more about Next.js, take a look at the following resources:
 
 - [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
 - [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
 You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
   
-  To learn more about strapi, take a look at the following resources:
+  ### To learn more about strapi, take a look at the following resources:
 
 - [strapi Documentation](https://strapi.io/resource-center) - learn about strapi.
 - You can check out [the strapi GitHub repository](https://github.com/strapi/)
